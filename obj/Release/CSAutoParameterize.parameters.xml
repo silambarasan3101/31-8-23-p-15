@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="EmpsDbConnectionString-Web.config Connection String" description="EmpsDbConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=DESKTOP-R52GF1S;Initial Catalog=EmpsDb;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="E:\\car\\31-8-23\\ErrorHandling1\\ErrorHandling1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='EmpsDbConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
